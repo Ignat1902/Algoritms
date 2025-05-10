@@ -1,3 +1,5 @@
+package difficulty.easy
+
 /**
  * [Самый длинный общий префикс](https://leetcode.com/problems/longest-common-prefix/description/)
  *

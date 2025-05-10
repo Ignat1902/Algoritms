@@ -1,3 +1,5 @@
+package difficulty.easy
+
 /**
  * [Сумма двух](https://leetcode.com/problems/two-sum/description/)
  *

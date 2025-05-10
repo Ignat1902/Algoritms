@@ -1,3 +1,5 @@
+package difficulty.easy
+
 /**
  * [Число палиндром](https://leetcode.com/problems/palindrome-number/description/)
  *

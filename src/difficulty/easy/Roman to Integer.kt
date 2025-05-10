@@ -1,3 +1,5 @@
+package difficulty.easy
+
 /**
  * [Преобразование римского числа в целое](https://leetcode.com/problems/roman-to-integer/description/)
  *
